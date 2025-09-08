@@ -1,0 +1,9 @@
+Selenium-testing-project/
+│── src/
+│   ├── pages/
+│   │   ├── base_page.py
+│   │   └── login_page.py
+│   └── tests/
+│       └── test_login.py
+│── requirements.txt
+│── README.md
